@@ -1,0 +1,9 @@
+User: jsmith
+Event: Login
+IP: 185.203.116.42
+Time: 02:14 AM
+
+User: jsmith
+Event: Failed Login Attempt
+IP: 185.203.116.42
+Time: 02:15 AM
